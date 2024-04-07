@@ -16,16 +16,10 @@ This repository hosts a research project focused on the detection of breast canc
 1. **Clone the Repository**:
    - Clone this repository to your local machine or download it as a ZIP file and extract it.
 
-2. **Install Dependencies**:
-   - Navigate to the repository directory and install the required Python packages using pip:
-     ```
-     pip install -r requirements.txt
-     ```
-
-3. **Open the Notebook**:
+2. **Open the Notebook**:
    - Launch Jupyter Notebook or JupyterLab and open `Main.ipynb` from the repository directory.
 
-4. **Run the Notebook**:
+3. **Run the Notebook**:
    - Execute each cell in the notebook sequentially to explore the CART algorithm's application in breast cancer detection. The dataset `data.csv` will be automatically loaded as part of the notebook execution process.
 
 ##### Running the Notebook on Kaggle
